@@ -9,6 +9,3 @@ phases:
   post_build:
     commands:
       - echo Nothing
-artifacts:
-  files:
-    - '**/*'
